@@ -7,6 +7,6 @@
 - Javascript
 - Github
 
-# Fonts
+## Fonts
 
 - Google Fonts - Inter
